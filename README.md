@@ -2,12 +2,12 @@
 📡 Intercept Threads network traffic on iOS/iPad OS device.
 
 ## 📌 Latest Bypassed and Tested App Details
-- App version: **423.1.0.35.69**
+- App version: **424.0.0.26.53**
 - Tools Used for test: [Mitmproxy](https://mitmproxy.org/), [Burp Suite](https://portswigger.net/burp), [HTTP Toolkit](https://httptoolkit.com/), [Reqable](https://reqable.com/).
 - For any inquiries, please contact me on Telegram [https://t.me/DarknessKing999](https://t.me/DarknessKing999)
 
 ## 🎥 Evidence
-![Threads iOS](assets/v423.1.jpg)
+![Threads iOS](assets/v424.jpg)
 
 ## ✅ Other Apps
 1. [Facebook Android](https://github.com/shajon-dev/Facebook-SSL-Pinning-Bypass)
@@ -35,7 +35,7 @@
   <tbody>
     <tr>
       <td rowspan="2" align="center"><code>com.burbn.barcelona</code></td>
-      <td align="center">423.1.0.35.69</td>
+      <td align="center">424.0.0.26.53</td>
       <td align="center">✅ Bypassed</td>
       <td align="center"><a href="https://t.me/DarknessKing999">Contact Telegram</a></td>
     </tr>
