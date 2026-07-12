@@ -2,7 +2,7 @@
 📡 Intercept Threads network traffic on iOS/iPad OS device.
 
 ## 📌 Latest Bypassed and Tested App Details
-- App version: **432.1.0.27.62**
+- App version: **437.0.0.15.50**
 - Tools Used for test: [Mitmproxy](https://mitmproxy.org/), [Reqable](https://reqable.com/).
 - For any inquiries, please contact me on Telegram [https://t.me/SHAJON](https://t.me/SHAJON)
 
@@ -35,7 +35,7 @@
   <tbody>
     <tr>
       <td rowspan="2" align="center"><code>com.burbn.barcelona</code></td>
-      <td align="center">432.1.0.27.62</td>
+      <td align="center">437.0.0.15.50</td>
       <td align="center">✅ Bypassed</td>
       <td align="center"><a href="https://t.me/SHAJON">Contact Telegram</a></td>
     </tr>
